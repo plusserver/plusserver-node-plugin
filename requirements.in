@@ -1,0 +1,4 @@
+python-openstackclient==7.0.0
+python-dotenv==1.0.1
+importlib-metadata==7.1.0
+zipp==3.18.2
